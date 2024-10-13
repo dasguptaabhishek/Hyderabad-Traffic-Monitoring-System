@@ -1,0 +1,73 @@
+Traffic Update ID,Timestamp,Date,Time,Area,Location,Direction,Vehicle Count,Congestion Level,Average Speed (in km/h),Speed Level,Peak Hour?,Weather Condition,Visibility (in km),Visibility Level,Temperature (in °C),Temperature Level,Humidity (in %),Humidity Level,Wind Speed (in km/h),Wind Speed Level,Roadwork?,Traffic Signal Status,Accident Level
+TUPD001,2021-01-01 00:00:00,2021-01-01,00:00:00,Banjara Hills,A,South,93,Extreme,44.0,Moderate,Yes,Foggy,3.0,Low,34.0,Warm,58.0,Moderate,7.0,Moderate,No,Working,Low
+TUPD002,2021-01-01 01:00:00,2021-01-01,01:00:00,Ameerpet,D,South,3,Minimal,85.0,Extreme,Yes,Foggy,5.0,Moderate,29.0,Warm,22.0,Low,10.0,Moderate,No,Not Working,Moderate
+TUPD003,2021-01-01 02:00:00,2021-01-01,02:00:00,Begumpet,B,East,98,Extreme,52.0,Moderate,No,Windy,9.0,High,25.0,Moderate,61.0,High,6.0,Moderate,Yes,Working,High
+TUPD004,2021-01-01 03:00:00,2021-01-01,03:00:00,Nallakunta,A,North,42,Moderate,90.0,Extreme,No,Foggy,5.0,Moderate,24.0,Moderate,74.0,High,2.0,Light,No,Working,Moderate
+TUPD005,2021-01-01 04:00:00,2021-01-01,04:00:00,Kondapur,D,North,77,High,67.0,High,No,Rainy,7.0,Moderate,33.0,Warm,46.0,Moderate,14.0,Strong,Yes,Not Working,High
+TUPD006,2021-01-01 05:00:00,2021-01-01,05:00:00,Banjara Hills,D,South,21,Low,91.0,Extreme,Yes,Cloudy,5.0,Moderate,25.0,Moderate,54.0,Moderate,1.0,Light,Yes,Under Maintenance,Low
+TUPD007,2021-01-01 06:00:00,2021-01-01,06:00:00,Banjara Hills,D,West,73,High,75.0,High,No,Rainy,7.0,Moderate,23.0,Moderate,89.0,High,0.0,Light,Yes,Not Working,None
+TUPD008,2021-01-01 07:00:00,2021-01-01,07:00:00,Hitech City,D,North,0,Minimal,78.0,High,Yes,Foggy,5.0,Moderate,18.0,Cool,37.0,Low,15.0,Strong,Yes,Not Working,High
+TUPD009,2021-01-01 08:00:00,2021-01-01,08:00:00,Gachibowli,B,South,10,Minimal,60.0,Moderate,Yes,Windy,9.0,High,25.0,Moderate,46.0,Moderate,2.0,Light,No,Under Maintenance,High
+TUPD010,2021-01-01 09:00:00,2021-01-01,09:00:00,Banjara Hills,D,East,43,Moderate,96.0,Extreme,No,Sunny,2.0,Low,31.0,Warm,23.0,Low,4.0,Light,No,Working,None
+TUPD011,2021-01-01 10:00:00,2021-01-01,10:00:00,Miyapur,B,East,58,Moderate,72.0,High,No,Foggy,8.0,High,26.0,Moderate,42.0,Moderate,3.0,Light,No,Not Working,Low
+TUPD012,2021-01-01 11:00:00,2021-01-01,11:00:00,Miyapur,C,West,23,Low,54.0,Moderate,No,Windy,10.0,High,18.0,Cool,78.0,High,9.0,Moderate,No,Not Working,None
+TUPD013,2021-01-01 12:00:00,2021-01-01,12:00:00,Gachibowli,A,North,59,Moderate,69.0,High,Yes,Windy,9.0,High,18.0,Cool,76.0,High,15.0,Strong,No,Not Working,None
+TUPD014,2021-01-01 13:00:00,2021-01-01,13:00:00,Gachibowli,D,South,2,Minimal,22.0,Low,No,Rainy,8.0,High,28.0,Moderate,65.0,High,4.0,Light,Yes,Working,Moderate
+TUPD015,2021-01-01 14:00:00,2021-01-01,14:00:00,Madhapur,C,South,98,Extreme,44.0,Moderate,No,Sunny,10.0,High,26.0,Moderate,46.0,Moderate,15.0,Strong,No,Working,Low
+TUPD016,2021-01-01 15:00:00,2021-01-01,15:00:00,Ameerpet,A,West,62,High,73.0,High,Yes,Cloudy,8.0,High,22.0,Cool,42.0,Moderate,0.0,Light,Yes,Under Maintenance,High
+TUPD017,2021-01-01 16:00:00,2021-01-01,16:00:00,Uppal,A,South,35,Low,43.0,Moderate,No,Windy,1.0,Low,18.0,Cool,76.0,High,13.0,Strong,No,Not Working,None
+TUPD018,2021-01-01 17:00:00,2021-01-01,17:00:00,Secunderabad,A,South,94,Extreme,69.0,High,Yes,Windy,3.0,Low,18.0,Cool,25.0,Low,11.0,Strong,No,Under Maintenance,Moderate
+TUPD019,2021-01-01 18:00:00,2021-01-01,18:00:00,Miyapur,C,West,67,High,54.0,Moderate,No,Cloudy,4.0,Moderate,18.0,Cool,68.0,High,4.0,Light,No,Under Maintenance,High
+TUPD020,2021-01-01 19:00:00,2021-01-01,19:00:00,Kukatpally,B,East,82,High,31.0,Low,No,Windy,5.0,Moderate,27.0,Moderate,47.0,Moderate,13.0,Strong,No,Not Working,None
+TUPD021,2021-01-01 20:00:00,2021-01-01,20:00:00,Madhapur,C,West,46,Moderate,44.0,Moderate,Yes,Foggy,3.0,Low,17.0,Cool,64.0,High,0.0,Light,No,Not Working,None
+TUPD022,2021-01-01 21:00:00,2021-01-01,21:00:00,Somajiguda,D,West,99,Extreme,66.0,High,Yes,Cloudy,4.0,Moderate,33.0,Warm,85.0,High,9.0,Moderate,Yes,Under Maintenance,Low
+TUPD023,2021-01-01 22:00:00,2021-01-01,22:00:00,Kukatpally,D,East,20,Low,67.0,High,No,Foggy,2.0,Low,17.0,Cool,80.0,High,5.0,Light,Yes,Working,None
+TUPD024,2021-01-01 23:00:00,2021-01-01,23:00:00,Uppal,C,East,81,High,66.0,High,No,Foggy,10.0,High,31.0,Warm,55.0,Moderate,15.0,Strong,No,Under Maintenance,High
+TUPD025,2021-01-02 00:00:00,2021-01-02,00:00:00,Manikonda,A,West,50,Moderate,72.0,High,Yes,Cloudy,4.0,Moderate,33.0,Warm,50.0,Moderate,3.0,Light,No,Working,High
+TUPD026,2021-01-02 01:00:00,2021-01-02,01:00:00,Gachibowli,B,North,27,Low,72.0,High,No,Cloudy,6.0,Moderate,17.0,Cool,78.0,High,14.0,Strong,Yes,Working,Moderate
+TUPD027,2021-01-02 02:00:00,2021-01-02,02:00:00,Nallakunta,B,East,14,Minimal,55.0,Moderate,No,Foggy,4.0,Moderate,24.0,Moderate,72.0,High,5.0,Light,Yes,Under Maintenance,None
+TUPD028,2021-01-02 03:00:00,2021-01-02,03:00:00,Nallakunta,B,West,41,Moderate,92.0,Extreme,No,Windy,8.0,High,24.0,Moderate,51.0,Moderate,13.0,Strong,No,Not Working,High
+TUPD029,2021-01-02 04:00:00,2021-01-02,04:00:00,Jubilee Hills,B,South,58,Moderate,49.0,Moderate,No,Windy,4.0,Moderate,27.0,Moderate,88.0,High,8.0,Moderate,No,Under Maintenance,Low
+TUPD030,2021-01-02 05:00:00,2021-01-02,05:00:00,Secunderabad,A,North,65,High,55.0,Moderate,No,Cloudy,4.0,Moderate,29.0,Warm,45.0,Moderate,8.0,Moderate,No,Under Maintenance,High
+TUPD031,2021-01-02 06:00:00,2021-01-02,06:00:00,Secunderabad,B,South,36,Moderate,91.0,Extreme,No,Cloudy,4.0,Moderate,16.0,Cool,48.0,Moderate,6.0,Moderate,No,Working,None
+TUPD032,2021-01-02 07:00:00,2021-01-02,07:00:00,Uppal,A,East,10,Minimal,84.0,Extreme,Yes,Windy,3.0,Low,30.0,Warm,72.0,High,8.0,Moderate,Yes,Under Maintenance,None
+TUPD033,2021-01-02 08:00:00,2021-01-02,08:00:00,Miyapur,D,North,86,Extreme,76.0,High,Yes,Rainy,8.0,High,30.0,Warm,51.0,Moderate,14.0,Strong,Yes,Not Working,Low
+TUPD034,2021-01-02 09:00:00,2021-01-02,09:00:00,Begumpet,A,West,43,Moderate,28.0,Low,No,Foggy,9.0,High,15.0,Cool,86.0,High,13.0,Strong,Yes,Under Maintenance,None
+TUPD035,2021-01-02 10:00:00,2021-01-02,10:00:00,Miyapur,D,North,11,Minimal,94.0,Extreme,Yes,Foggy,4.0,Moderate,21.0,Cool,38.0,Low,10.0,Moderate,Yes,Under Maintenance,None
+TUPD036,2021-01-02 11:00:00,2021-01-02,11:00:00,Uppal,B,East,2,Minimal,77.0,High,No,Foggy,10.0,High,20.0,Cool,47.0,Moderate,10.0,Moderate,Yes,Working,Low
+TUPD037,2021-01-02 12:00:00,2021-01-02,12:00:00,Manikonda,C,North,51,Moderate,100.0,Extreme,Yes,Rainy,1.0,Low,25.0,Moderate,69.0,High,8.0,Moderate,Yes,Not Working,High
+TUPD038,2021-01-02 13:00:00,2021-01-02,13:00:00,Secunderabad,D,West,80,High,32.0,Low,Yes,Cloudy,6.0,Moderate,34.0,Warm,83.0,High,4.0,Light,No,Not Working,None
+TUPD039,2021-01-02 14:00:00,2021-01-02,14:00:00,Miyapur,D,West,32,Low,89.0,Extreme,No,Cloudy,3.0,Low,26.0,Moderate,28.0,Low,2.0,Light,No,Working,Moderate
+TUPD040,2021-01-02 15:00:00,2021-01-02,15:00:00,Manikonda,A,North,54,Moderate,33.0,Low,No,Foggy,9.0,High,17.0,Cool,37.0,Low,13.0,Strong,Yes,Not Working,None
+TUPD041,2021-01-02 16:00:00,2021-01-02,16:00:00,Nallakunta,C,West,0,Minimal,69.0,High,No,Cloudy,3.0,Low,27.0,Moderate,36.0,Low,10.0,Moderate,Yes,Not Working,None
+TUPD042,2021-01-02 17:00:00,2021-01-02,17:00:00,Manikonda,D,North,38,Moderate,30.0,Low,No,Foggy,7.0,Moderate,32.0,Warm,54.0,Moderate,4.0,Light,Yes,Under Maintenance,Low
+TUPD043,2021-01-02 18:00:00,2021-01-02,18:00:00,Nallakunta,A,North,19,Low,88.0,Extreme,No,Windy,8.0,High,18.0,Cool,82.0,High,7.0,Moderate,Yes,Working,Low
+TUPD044,2021-01-02 19:00:00,2021-01-02,19:00:00,Gachibowli,B,North,46,Moderate,85.0,Extreme,Yes,Windy,5.0,Moderate,35.0,Warm,45.0,Moderate,0.0,Light,No,Not Working,Low
+TUPD045,2021-01-02 20:00:00,2021-01-02,20:00:00,Jubilee Hills,D,North,42,Moderate,66.0,High,No,Cloudy,8.0,High,17.0,Cool,47.0,Moderate,8.0,Moderate,No,Working,Low
+TUPD046,2021-01-02 21:00:00,2021-01-02,21:00:00,Uppal,B,East,56,Moderate,53.0,Moderate,No,Rainy,8.0,High,17.0,Cool,84.0,High,5.0,Light,Yes,Under Maintenance,None
+TUPD047,2021-01-02 22:00:00,2021-01-02,22:00:00,Hitech City,D,West,60,Moderate,26.0,Low,No,Cloudy,4.0,Moderate,28.0,Moderate,28.0,Low,8.0,Moderate,Yes,Not Working,Moderate
+TUPD048,2021-01-02 23:00:00,2021-01-02,23:00:00,Hitech City,D,North,77,High,76.0,High,Yes,Rainy,1.0,Low,34.0,Warm,64.0,High,2.0,Light,No,Working,High
+TUPD049,2021-01-03 00:00:00,2021-01-03,00:00:00,Hitech City,C,West,30,Low,56.0,Moderate,Yes,Foggy,3.0,Low,34.0,Warm,29.0,Low,6.0,Moderate,Yes,Not Working,Moderate
+TUPD050,2021-01-03 01:00:00,2021-01-03,01:00:00,Secunderabad,D,East,24,Low,78.0,High,No,Rainy,6.0,Moderate,24.0,Moderate,46.0,Moderate,14.0,Strong,No,Working,Moderate
+TUPD051,2021-01-03 02:00:00,2021-01-03,02:00:00,Madhapur,A,West,2,Minimal,89.0,Extreme,No,Cloudy,5.0,Moderate,30.0,Warm,43.0,Moderate,0.0,Light,No,Under Maintenance,Low
+TUPD052,2021-01-03 03:00:00,2021-01-03,03:00:00,Banjara Hills,B,West,3,Minimal,98.0,Extreme,Yes,Windy,5.0,Moderate,30.0,Warm,68.0,High,15.0,Strong,Yes,Under Maintenance,None
+TUPD053,2021-01-03 04:00:00,2021-01-03,04:00:00,Madhapur,B,South,94,Extreme,88.0,Extreme,No,Foggy,5.0,Moderate,21.0,Cool,76.0,High,10.0,Moderate,Yes,Not Working,None
+TUPD054,2021-01-03 05:00:00,2021-01-03,05:00:00,Somajiguda,B,South,98,Extreme,21.0,Low,No,Cloudy,5.0,Moderate,17.0,Cool,55.0,Moderate,1.0,Light,No,Not Working,None
+TUPD055,2021-01-03 06:00:00,2021-01-03,06:00:00,Banjara Hills,D,South,13,Minimal,49.0,Moderate,No,Rainy,5.0,Moderate,24.0,Moderate,41.0,Moderate,4.0,Light,No,Working,High
+TUPD056,2021-01-03 07:00:00,2021-01-03,07:00:00,Gachibowli,A,North,40,Moderate,78.0,High,Yes,Cloudy,9.0,High,23.0,Moderate,82.0,High,8.0,Moderate,Yes,Not Working,Moderate
+TUPD057,2021-01-03 08:00:00,2021-01-03,08:00:00,Hitech City,D,South,72,High,34.0,Low,Yes,Rainy,5.0,Moderate,26.0,Moderate,45.0,Moderate,11.0,Strong,No,Under Maintenance,High
+TUPD058,2021-01-03 09:00:00,2021-01-03,09:00:00,Jubilee Hills,C,South,19,Low,62.0,High,Yes,Windy,8.0,High,32.0,Warm,72.0,High,6.0,Moderate,Yes,Under Maintenance,High
+TUPD059,2021-01-03 10:00:00,2021-01-03,10:00:00,Ameerpet,A,South,95,Extreme,24.0,Low,No,Rainy,5.0,Moderate,26.0,Moderate,59.0,Moderate,3.0,Light,Yes,Under Maintenance,Moderate
+TUPD060,2021-01-03 11:00:00,2021-01-03,11:00:00,Banjara Hills,D,West,72,High,36.0,Low,Yes,Sunny,1.0,Low,29.0,Warm,34.0,Low,7.0,Moderate,No,Not Working,High
+TUPD061,2021-01-03 12:00:00,2021-01-03,12:00:00,Ameerpet,D,North,26,Low,21.0,Low,Yes,Sunny,7.0,Moderate,27.0,Moderate,58.0,Moderate,15.0,Strong,No,Working,Low
+TUPD062,2021-01-03 13:00:00,2021-01-03,13:00:00,Uppal,C,West,66,High,83.0,Extreme,Yes,Sunny,2.0,Low,17.0,Cool,56.0,Moderate,13.0,Strong,Yes,Under Maintenance,Moderate
+TUPD063,2021-01-03 14:00:00,2021-01-03,14:00:00,Ameerpet,D,South,52,Moderate,38.0,Low,Yes,Sunny,9.0,High,17.0,Cool,44.0,Moderate,14.0,Strong,Yes,Under Maintenance,Moderate
+TUPD064,2021-01-03 15:00:00,2021-01-03,15:00:00,Somajiguda,C,East,67,High,48.0,Moderate,Yes,Sunny,7.0,Moderate,16.0,Cool,22.0,Low,10.0,Moderate,No,Not Working,Moderate
+TUPD065,2021-01-03 16:00:00,2021-01-03,16:00:00,Gachibowli,D,North,61,High,94.0,Extreme,Yes,Rainy,2.0,Low,17.0,Cool,30.0,Low,7.0,Moderate,Yes,Not Working,Moderate
+TUPD066,2021-01-03 17:00:00,2021-01-03,17:00:00,Kukatpally,A,South,14,Minimal,76.0,High,No,Sunny,1.0,Low,20.0,Cool,29.0,Low,10.0,Moderate,Yes,Not Working,None
+TUPD067,2021-01-03 18:00:00,2021-01-03,18:00:00,Ameerpet,C,East,96,Extreme,23.0,Low,No,Foggy,1.0,Low,32.0,Warm,70.0,High,10.0,Moderate,Yes,Not Working,High
+TUPD068,2021-01-03 19:00:00,2021-01-03,19:00:00,Ameerpet,A,North,4,Minimal,33.0,Low,No,Rainy,9.0,High,25.0,Moderate,70.0,High,0.0,Light,No,Working,High
+TUPD069,2021-01-03 20:00:00,2021-01-03,20:00:00,Begumpet,A,East,67,High,70.0,High,Yes,Windy,2.0,Low,25.0,Moderate,63.0,High,14.0,Strong,No,Not Working,High
+TUPD070,2021-01-03 21:00:00,2021-01-03,21:00:00,Gachibowli,A,North,11,Minimal,66.0,High,Yes,Rainy,8.0,High,28.0,Moderate,67.0,High,8.0,Moderate,No,Working,Moderate
+TUPD071,2021-01-03 22:00:00,2021-01-03,22:00:00,Jubilee Hills,B,North,48,Medium,64.0,High,No,Cloudy,8.0,High,30.0,Warm,65.0,High,10.0,Moderate,No,Working,Low
+TUPD072,2021-01-03 23:00:00,2021-01-03,23:00:00,Banjara Hills,B,South,54,High,55.0,Moderate,Yes,Foggy,5.0,Moderate,28.0,Moderate,72.0,High,12.0,Strong,Yes,Not Working,High
